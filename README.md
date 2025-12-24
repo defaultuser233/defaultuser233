@@ -2,7 +2,10 @@
 - 👀 I’m interested in Programming and Chemistry
 - 🌱 I’m currently learning Python OOP
 - 💞️ I’m looking to collaborate on bilibili(UID:1754247826)
-- 📫 How to reach me?(QQ:1714247826)
+- 📫 How to reach me?
+  - QQ: 1284219057
+  - QQ: 3887562729
+  - QID: Platinux
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
